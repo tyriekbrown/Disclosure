@@ -1,0 +1,28 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+.well{
+  background: #708090;
+}
+h3{
+  color: white;
+}
+h1{
+  color: white;
+}
+h2{
+  color: white;
+}
+.messages{
+  overflow-y: scroll;
+  overflow-x: hidden;
+  height: 230px;
+  background: white;
+}
+body{
+  background-image: url("img/disclosure.jpg");
+}
